@@ -1,0 +1,9 @@
+{
+  "num_layers": 5,
+  "nodes_per_layer": 64,
+  "activation": "leaky_relu",
+  "leaky_alpha": 0.2,
+  "lr": 0.01,
+  "loss": "huber_0_5",
+  "batch_size": 32
+}
